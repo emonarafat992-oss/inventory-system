@@ -5,12 +5,7 @@ As an Inventory Manager, I want to add new products so newly received items are 
 **Status: Implemented**
 
 
-## WS-01: Receive Incoming Stock
-As a Warehouse Staff, I want to receive incoming stock so inventory is updated after delivery.
+## CUST-01: Customer Registration
+As a Customer, I want to register an account so I can purchase products online.
 **Status: Implemented**
-
-
-## SS-01: Create Customer Order
-As a Sales Staff, I want to create orders so customers can purchase products.
-*Status: Implemented*
 
